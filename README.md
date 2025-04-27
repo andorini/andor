@@ -27,7 +27,6 @@
 ## How to Reach Me
 - [Twitter](https://twitter.com/andorini)
 - [Email](mailto:andor.luhovic@gmail.com)
-- [Website](#) *(coming soon)*
 
 ---
 
